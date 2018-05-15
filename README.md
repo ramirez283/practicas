@@ -1,3 +1,5 @@
 # practicas
 
-Realizar diagrama de proceso
+Realizar diagrama
+Diseñar base de datos
+Diseño de interaces
